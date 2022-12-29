@@ -1,4 +1,4 @@
-# garvity-simulator
+# garvity-simulator v 0.1
 an garvity-simulator made with python and low quality
 The result:
 ![2](https://user-images.githubusercontent.com/91107729/208550345-2462a9f3-c6c1-446c-8c66-1288606554c0.gif)
